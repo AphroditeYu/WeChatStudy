@@ -1,0 +1,4 @@
+<swiper interval="1000" autoplay="true" circular indicator-dots indicator-color="#0094ff" indicator-active-color="#ff0094">
+<swiper-item><image mode="widthFix" src="../../image/4.jpg" /></swiper-item>
+<swiper-item><image  mode="widthFix" src="../../image/12.jpg" /></swiper-item>
+</swiper>

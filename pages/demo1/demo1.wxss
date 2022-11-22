@@ -1,0 +1,9 @@
+/*
+定义less变量
+*/
+text {
+  color: black;
+}
+.view .view1 text {
+  color: red;
+}

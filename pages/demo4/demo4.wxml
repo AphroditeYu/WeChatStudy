@@ -1,0 +1,6 @@
+
+<!-- navigate与redirect的区别就是是否关闭当前页面 -->
+<navigator url="/pages/demo3/demo3">点击跳转</navigator>
+<navigator url="/pages/demo3/demo3" open-type="redirect">点击redirect跳转</navigator>
+<navigator open-type='switchTab' url="/pages/index/index" >点击switchTab跳转</navigator>
+<navigator open-type='reLaunch' url="/pages/index/index" >点击reLaunch跳转</navigator>

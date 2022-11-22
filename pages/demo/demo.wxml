@@ -1,0 +1,8 @@
+<!--pages/demo/demo.wxml-->
+<input type="text" bindinput="handleinput"/>
+<view>
+{{num}}
+</view>
+<button bindtap="handlebtn" data-operation="{{1}}">+</button>
+<button bindtap="handlebtn" data-operation="{{-1}}">-</button>
+
